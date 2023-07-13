@@ -1,0 +1,18 @@
+.stripe {
+	background-color: #FFA7A7;
+	font-family: Verdana, "DejaVu Sans", Sans-serif;
+}
+
+#second {
+	color: hsl(240, 100%, 50%);
+	font-size: 36px;
+}
+
+.large-text {
+	font-size: 24px;
+}
+
+#fourth {
+	background-color: rgb(69, 255, 143);
+	font-weight: bold;
+}
